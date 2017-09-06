@@ -1,5 +1,3 @@
-# Animate to Retina
-
 
 ![preview](https://github.com/tpkn/animate-to-retina/blob/master/preview.png)
 
@@ -8,6 +6,7 @@
 2. Export single or multiple objects
 3. Tool saves transform params such as skew and rotation
 4. Adds 10px on each image side to prevent cutting off object's edges (line 77)
+<br />
 
 ### Usage (scss)
 ```scss
@@ -31,6 +30,7 @@
    @include retina('symbol2_253x117_309c0c.png', 253, 117);
 }
 ```
+<br />
 
 ### Installation
 1. Copy .swf and .jsfl files into `C:\Users\[PC_NAME]\AppData\Local\Adobe\[ANIMATE_CC_VERSION]\en_US\Configuration\WindowSWF`
