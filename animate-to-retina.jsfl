@@ -1,5 +1,5 @@
 ﻿/*!
- * Animate to Retina (v1.0.4.20150216), http://tpkn.me/
+ * Animate to Retina (v1.0.5.20171029), http://tpkn.me/
  */
 
 fl.showIdleMessage(false);
